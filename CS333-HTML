@@ -11,5 +11,18 @@
         <h1>Welcome to Sunshine Kindergarten</h1>
         <p>Engaging young minds, one day at a time!</p>
     </header>
+
+<nav>
+        <ul>
+            <li><a href="#welcome">Welcome</a></li>
+            <li><a href="#teacher">About the Teacher</a></li>
+            <li><a href="#resources">Parent Resources</a></li>
+            <li><a href="#schedule">Weekly Schedule</a></li>
+            <li><a href="#gallery">Class Room Gallery</a></li>
+            
+            
+        </ul>
+    </nav>
+
 </body>
 </html>
