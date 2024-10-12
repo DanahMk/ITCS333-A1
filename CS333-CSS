@@ -8,3 +8,12 @@ body {
 h1, h2 {
     color: #333;
 }
+header {
+    background-color: #fda2da;
+    padding: 20px;
+    
+}
+
+header h1 {
+    margin: 0;
+}
