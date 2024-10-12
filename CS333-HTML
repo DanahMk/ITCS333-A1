@@ -63,6 +63,21 @@
             <img src="https://www.littlelearningstore.com/wp-content/uploads/2023/02/kindergarten-classroom-interior-calendar-bulletin-board-table-chairs-alphabet-rug-34959378.jpeg" alt="Activity 2">
         </section>
 
+        <section id="resources">
+            <h2>Parent Resources</h2>
+            <p>Check out these important announcements and resources to stay updated with what's happening in class!</p>
+
+            <h3>Weekly Newsletter:</h3>
+            <p>Every Thursday, please visit the reception to collect the weekly newsletter. For instant updates, you can also join our WhatsApp newsletter group to stay informed throughout the week!</p>
+
+            <h3>Classroom Rules:</h3>
+            <p>Our classroom represents a respectful and supportive environment for all children. We kindly ask that every student:</p>
+            <ul>
+                <li>Demonstrates kindness and respect towards classmates and teachers.</li>
+                <li>Wears the school uniform each day, as it helps build a sense of community and belonging.</li>
+                <li>Have Fun EveryDay.</li>
+            </ul>
+        </section>
  </main>
 </body>
 </html>
