@@ -27,6 +27,37 @@
             <h2>Welcome to Sunshine Kindergarten</h2>
             <p>We believe in learning through play and exploration. Our classroom is a nurturing environment where children are encouraged to be curious and creative. Come and join us on this exciting journey of learning!</p>
         </section>
+
+        <section id="schedule">
+            <h2>Weekly Schedule</h2>
+            <table>
+                <tr>
+                    <th>Day</th>
+                    <th>Activity</th>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>Storytelling & Arts</td>
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>Outdoor Play</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>Music & Dance</td>
+                </tr>
+                <tr>
+                    <td>Thursday</td>
+                    <td>Science Fun</td>
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td>Crafting Day</td>
+                </tr>
+            </table>
+        </section>
+
  </main>
 </body>
 </html>
