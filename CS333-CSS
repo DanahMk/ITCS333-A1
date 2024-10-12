@@ -65,3 +65,9 @@ th, td {
 th {
     background-color: #619921;
 }
+
+#gallery img {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
