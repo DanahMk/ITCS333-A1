@@ -57,6 +57,11 @@
                 </tr>
             </table>
         </section>
+        <section id="gallery">
+            <h2>Class Room Gallery</h2>
+            <img src="https://kindercraze.com/wp-content/uploads/2023/06/rainbow-circus-kindergarten-classroom-18.jpg" alt="Activity 1">
+            <img src="https://www.littlelearningstore.com/wp-content/uploads/2023/02/kindergarten-classroom-interior-calendar-bulletin-board-table-chairs-alphabet-rug-34959378.jpeg" alt="Activity 2">
+        </section>
 
  </main>
 </body>
