@@ -57,6 +57,7 @@
                 </tr>
             </table>
         </section>
+
         <section id="gallery">
             <h2>Class Room Gallery</h2>
             <img src="https://kindercraze.com/wp-content/uploads/2023/06/rainbow-circus-kindergarten-classroom-18.jpg" alt="Activity 1">
@@ -87,8 +88,10 @@
             </div>
         </section>
  </main>
+
     <footer>
         <p>Contact us: +973 33658943 | Email: info@sunshinekindergarten.com </p>
     </footer>
+
 </body>
 </html>
