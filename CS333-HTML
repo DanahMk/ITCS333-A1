@@ -78,6 +78,14 @@
                 <li>Have Fun EveryDay.</li>
             </ul>
         </section>
+
+        <section id="teacher">
+            <h2>About the Teacher</h2>
+            <div style="display: flex; align-items: center;">
+                <img src="https://cdn.arabsstock.com/uploads/images/97224/image-97224-portrait-handsome-young-man-wearing-traditional-saudi-thaw-thumbnail.webp" alt="Teacher's Picture" style="margin-right: 20px; width: 150px; height: 150px;">
+                <p>Hello, I’m Mr. Mohammed! With over 10 years of kindergarten teaching experience, I’m dedicated to creating a fun, nurturing environment where children can learn and grow. I’m excited to work together with you this year!</p>
+            </div>
+        </section>
  </main>
 </body>
 </html>
