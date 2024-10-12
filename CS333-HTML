@@ -22,5 +22,11 @@
         </ul>
     </nav>
 
+<main>
+        <section id="welcome">
+            <h2>Welcome to Sunshine Kindergarten</h2>
+            <p>We believe in learning through play and exploration. Our classroom is a nurturing environment where children are encouraged to be curious and creative. Come and join us on this exciting journey of learning!</p>
+        </section>
+ </main>
 </body>
 </html>
