@@ -12,8 +12,10 @@ h1, h2 {
 header {
     background-color: #fda2da;
     padding: 20px;
-    
+  text-align: center;
+
 }
+
 header h1 {
     margin: 0;
 }
